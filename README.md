@@ -53,7 +53,7 @@ GitHub repo :https://github.com/Lakhan9525/hometogo
 
 Netlify link: https://voluble-trifle-1a6e8e.netlify.app/    
 
-Medium Blog link :
+Medium Blog link :https://medium.com/@lakhanraj987/collaborative-project-at-masai-school-hometo-go-clone-5c4ac3e82667
 
 
 
