@@ -6,6 +6,10 @@ We have tried to replicate the website with a few changes as we have mapped the 
 
 Homepage & Search bar:
 This is the main landing page of our website. Here by adding preferences to search bar will result according to your search cities Pune, Delhi, Mumbai, Hyderabad & Banglore.
+![Screenshot (58)](https://user-images.githubusercontent.com/102020617/192688315-7c7e787d-8bdb-4d52-b3a8-827c8cf171a1.png)
+
+
+
 
 Search Sorting Property:
 Searching for properties across certain cities & sorting across properties on the basis of cities, price & ratings.
