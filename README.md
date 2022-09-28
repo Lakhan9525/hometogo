@@ -76,3 +76,8 @@ Added the sorting functionality using HTML, CSS & JavaScript.
 Pratik Mate:-
 Pratik responsibilities were focused on creating the list your property section.
 Website functional and responsive using HTML, CSS & JavaScript.
+
+![Screenshot (59)](https://user-images.githubusercontent.com/102020617/192688496-e4929601-f9a5-4b3d-870c-773750d8b421.png)
+
+![Screenshot (60)](https://user-images.githubusercontent.com/102020617/192688572-a72adbfb-45bd-4730-8363-8bae0ccfc725.png)
+
